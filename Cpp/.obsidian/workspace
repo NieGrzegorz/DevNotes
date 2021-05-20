@@ -6,10 +6,11 @@
       {
         "id": "c529fe21956f6b07",
         "type": "leaf",
+        "dimension": 24.166666666666668,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Standards/C++11 Language features.md",
+            "file": "Contents - START HERE.md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "46f4acef3370858a",
         "type": "leaf",
+        "dimension": 75.83333333333333,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -78,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standards/C++11 Language features.md",
+                "file": "Contents - START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +100,15 @@
   },
   "active": "c529fe21956f6b07",
   "lastOpenFiles": [
-    "Standards/C++11 Language features.md",
-    "Standards/Cpp11.md",
-    "Standards/Standards.md",
     "Contents - START HERE.md",
-    "Standards/C++11 Library features.md",
-    "C++11 Library features.md",
-    "Cpp11.md",
-    "C++11 Language features.md",
-    "Standards.md",
-    "Cpp14.md"
+    "Guidelines.md",
+    "Standard library/Standard library.md",
+    "Tools/Tools.md",
+    "Interview Questions.md",
+    "Basic features/Basic features.md",
+    "OOP/OOP.md",
+    "Tools.md",
+    "OOP.md",
+    "Standard library.md"
   ]
 }
