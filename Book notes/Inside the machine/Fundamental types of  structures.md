@@ -7,3 +7,4 @@ According to [[Basic computing concepts]], there are three types of structures:
 * [[Bus]]
 
 Tags: 
+#BasicComputing

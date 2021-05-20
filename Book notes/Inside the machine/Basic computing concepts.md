@@ -9,4 +9,5 @@ Part of [[General CPU Concepts]]
 
 [[Addressing]]
 
-Tags: 
+Tags:
+#BasicComputing
