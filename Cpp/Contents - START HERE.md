@@ -11,5 +11,11 @@ Work in progress - not sure how to devide logically to display a good mind map
 8. [[Code Smells]] 
 9. [[Interview Questions]]
 
+### Graph filters
+Useful filters for graph view:
+* Filters for C++ standards:
+* Filters for language features: 
+* Filters for STL: 
+* Tools filters:  
 
-Useful filters for graph view: 
+### Tags: 

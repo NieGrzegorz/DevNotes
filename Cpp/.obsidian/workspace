@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c529fe21956f6b07",
+        "id": "69510d2171de8525",
         "type": "leaf",
-        "dimension": 24.166666666666668,
+        "dimension": 44.02618657937807,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contents - START HERE.md",
+            "file": "Interview Questions.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "46f4acef3370858a",
         "type": "leaf",
-        "dimension": 75.83333333333333,
+        "dimension": 55.97381342062194,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents - START HERE.md",
+                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c529fe21956f6b07",
+  "active": "69510d2171de8525",
   "lastOpenFiles": [
-    "Contents - START HERE.md",
-    "Guidelines.md",
-    "Standard library/Standard library.md",
-    "Tools/Tools.md",
     "Interview Questions.md",
-    "Basic features/Basic features.md",
+    "Contents - START HERE.md",
+    "Namespaces.md",
     "OOP/OOP.md",
-    "Tools.md",
-    "OOP.md",
-    "Standard library.md"
+    "OOP/Classes and objects.md",
+    "Static fields.md",
+    "Pointers and references.md",
+    "Basic features/Basic features.md",
+    "Classes and objects.md",
+    "Friendship.md"
   ]
 }

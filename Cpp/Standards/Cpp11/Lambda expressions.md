@@ -1,5 +1,5 @@
 # Lambdas 
-One of [[C++11 Library features]]
+One of [[C++11 Language features]]
 
    
 

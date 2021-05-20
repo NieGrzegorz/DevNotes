@@ -1,9 +1,12 @@
 # Basic C++ language features 
 [[Contents - START HERE]]
+
+List of core C++ language features. 
 ### List:
 * [[Data types]] 
 * [[Data casting]] 
 * [[Constants]]
+* [[Functions]]
 * [[Preprocessor]]
 * [[Exceptions]]
 * [[Templates]]

@@ -9,3 +9,7 @@ OOP features of C++ language:
 * [[Inheritance]]
 * [[Polymorphism]]
 * [[Friendship]]
+* [[Static fields]]
+
+### Tags:
+#oop
