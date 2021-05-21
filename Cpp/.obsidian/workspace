@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69510d2171de8525",
+        "id": "e9688608860fce4f",
         "type": "leaf",
-        "dimension": 44.02618657937807,
+        "dimension": 33.91025641025641,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview Questions.md",
-            "mode": "source"
+            "file": "Contents - START HERE.md",
+            "mode": "preview"
           }
         }
       },
       {
         "id": "46f4acef3370858a",
         "type": "leaf",
-        "dimension": 55.97381342062194,
+        "dimension": 66.08974358974359,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Contents - START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69510d2171de8525",
+  "active": "e9688608860fce4f",
   "lastOpenFiles": [
-    "Interview Questions.md",
     "Contents - START HERE.md",
+    "Tools/Tools.md",
+    "Interview Questions.md",
     "Namespaces.md",
     "OOP/OOP.md",
     "OOP/Classes and objects.md",
     "Static fields.md",
     "Pointers and references.md",
     "Basic features/Basic features.md",
-    "Classes and objects.md",
-    "Friendship.md"
+    "Classes and objects.md"
   ]
 }
