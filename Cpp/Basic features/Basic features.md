@@ -20,6 +20,7 @@ List of core C++ language features.
 * [[Undefined behavior]]
 * [[Stack and heap]]
 * [[Cache in C++]]
+* [[Linkage]]
 
 ### Tags: 
 #cppbasic

@@ -1,5 +1,12 @@
 # Functions 
 
+### Passing arguments
+#### Pass by value
+#### Pass by pointer
+#### Pass by reference 
+
+### Function overloading
+
 ### What happens during a function call
 	- cpu stores the memory address which called
 	- copies arguments to stack

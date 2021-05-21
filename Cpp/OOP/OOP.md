@@ -4,6 +4,8 @@
 
 OOP features of C++ language: 
 * [[Classes and objects]]
+* [[Operator overloading]]
+* [[RAII]]
 * [[Abstraction]]
 * [[Encapsulation]]
 * [[Inheritance]]
