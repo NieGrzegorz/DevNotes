@@ -5,3 +5,6 @@
 #### Global variables 
 
 Where intialized: - data  section 
+
+### Tags:
+#cppbasic

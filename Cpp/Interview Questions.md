@@ -1,3 +1,5 @@
+# Interview questions 
+
 [[Contents - START HERE]]
 
 Interview questions with links to pages which answer these questions or answers for a specific questions. These are either questions related to C++ encountered by me and my colleagues on during different job interviews or found all over the internet. 
@@ -54,9 +56,12 @@ Interview questions with links to pages which answer these questions or answers 
 49. [[Classes and objects#Destructor|Is it good idea to throw exceptions in a destructor?]]
 50. [[Manual memory allocation|What is heap, what are other memory spaces?]]
 51. [[Data types#Variables#Global variables|What are function bound global variables?]] 
-52. [[Data types#Variables#Global variables||Where and when are global variables initialized]] 
-53. [[Data types#Variables#Global variables||When global variables are destroyed?]]
-54. [[Data types#Variables#Global variables||Are global variables thread safe?]]
+52. [[Data types#Variables#Global variables|Where and when are global variables initialized]] 
+53. [[Data types#Variables#Global variables|When global variables are destroyed?]]
+54. [[Data types#Variables#Global variables|Are global variables thread safe?]]
+
+### Tags: 
+#interview
 	 
 	
 

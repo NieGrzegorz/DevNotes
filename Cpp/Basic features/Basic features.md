@@ -12,7 +12,6 @@ List of core C++ language features.
 * [[Templates]]
 * [[Pointers and references]]
 * [[Manual memory allocation]]
-* [[Inline functions]]
 * [[Namespaces]]
 * [[Compilation process]]
 * [[Program execution]]

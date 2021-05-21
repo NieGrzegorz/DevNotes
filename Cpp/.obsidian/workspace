@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e9688608860fce4f",
-        "type": "leaf",
-        "dimension": 50.57692307692307,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Interview Questions.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "46f4acef3370858a",
         "type": "leaf",
-        "dimension": 49.42307692307693,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -80,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +84,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9688608860fce4f",
+  "active": "46f4acef3370858a",
   "lastOpenFiles": [
-    "Interview Questions.md",
-    "Basic features/Data types.md",
-    "Data types.md",
+    "Standards/Cpp11/Smart pointers.md",
+    "Basic features/Manual memory allocation.md",
     "Basic features/Basic features.md",
-    "Operator overloading.md",
-    "OOP/OOP.md",
-    "OOP/Classes and objects.md",
-    "Basic features/Functions.md",
-    "Standard library/Standard library.md",
-    "Contents - START HERE.md"
+    "Basic features/Constants.md",
+    "Basic features/Namespaces.md",
+    "Basic features/Data types.md",
+    "Basic features/Compilation process.md",
+    "Basic features/Cache in C++.md",
+    "Basic features/Linkage.md",
+    "Basic features/Undefined behavior.md"
   ]
 }
