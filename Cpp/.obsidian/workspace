@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "46f4acef3370858a",
+        "id": "3cc2ac91193db1b1",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "OOP/Polymorphism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OOP/Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46f4acef3370858a",
+  "active": "3cc2ac91193db1b1",
   "lastOpenFiles": [
-    "Standards/Cpp11/Smart pointers.md",
-    "Basic features/Manual memory allocation.md",
-    "Basic features/Basic features.md",
-    "Basic features/Constants.md",
-    "Basic features/Namespaces.md",
-    "Basic features/Data types.md",
-    "Basic features/Compilation process.md",
-    "Basic features/Cache in C++.md",
-    "Basic features/Linkage.md",
-    "Basic features/Undefined behavior.md"
+    "OOP/Polymorphism.md",
+    "OOP/Inheritance.md",
+    "OOP/OOP.md",
+    "OOP/Classes and objects.md",
+    "OOP/Static fields.md",
+    "OOP/RAII.md",
+    "OOP/Operator overloading.md",
+    "OOP/Constructors.md",
+    "OOP/Encapsulation.md",
+    "OOP/Friendship.md"
   ]
 }
