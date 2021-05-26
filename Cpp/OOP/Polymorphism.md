@@ -59,5 +59,10 @@ Polymorphism in C++ is implemented by means of Virtual Table or VTABLE.
 * VPTR is a hidden pointer added to every object of a class which conains a virtual function
 * VPTR points to VTABLE of a class 
 
+
+### Example for VTABLE and VPTR
+
+![Vtable and Vptr](vtbl.png)
+
 ### Tags: 
 #oop

@@ -89,14 +89,14 @@
   "active": "3cc2ac91193db1b1",
   "lastOpenFiles": [
     "OOP/Polymorphism.md",
+    "Tools/Tools.md",
+    "OOP/RAII.md",
     "OOP/Inheritance.md",
     "OOP/OOP.md",
     "OOP/Classes and objects.md",
     "OOP/Static fields.md",
-    "OOP/RAII.md",
     "OOP/Operator overloading.md",
     "OOP/Constructors.md",
-    "OOP/Encapsulation.md",
-    "OOP/Friendship.md"
+    "OOP/Encapsulation.md"
   ]
 }
