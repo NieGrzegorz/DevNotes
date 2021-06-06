@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pragmatic Phillosophy.md",
-            "mode": "preview"
+            "file": "Basic Tools/Use single editor well.md",
+            "mode": "source"
           }
         }
       },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pragmatic Phillosophy.md",
+                "file": "Basic Tools/Use single editor well.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "f98c2e3339286122",
   "lastOpenFiles": [
-    "Pragmatic Phillosophy.md",
-    "Dont live with broken windows.md",
-    "Software entropy.md",
-    "Think about your work.md",
-    "Pragmatic Programmer.md",
-    "Care about your craft.md",
-    "Be a Catalyst for change.md",
-    "Remember the big picture.md",
-    "Pragmatic Approach.md",
-    "Make it easy to reuse.md"
+    "Use single editor well.md",
+    "Basic Tools/Basic Tools.md",
+    "Use the power of Command Shells.md",
+    "Keep knowledge in plain text.md",
+    "Iterate the schedule with the code.md",
+    "Pragmatic Approach/Pragmatic Approach.md",
+    "Iterate the schedule withe the code.md",
+    "Estimate to avoid surprises.md",
+    "Program close to the problem domain.md",
+    "Prototype to learn.md"
   ]
 }

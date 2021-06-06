@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inside the machine.md",
+            "file": "The File-Clerk model.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inside the machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d480dbd9b1847fb7",
+  "active": "c46246c0887b7898",
   "lastOpenFiles": [
     "Inside the machine.md",
     "ALU.md",
