@@ -1,5 +1,6 @@
 # Contents 
-Work in progress - not sure how to devide logically to display a good mind map 
+Work in progress - not sure how to devide logically to display a good mind map. 
+I am constatntly moving my notes from different sources. 
 
 1. [[Basic features]]
 2. [[OOP]] 
@@ -11,11 +12,18 @@ Work in progress - not sure how to devide logically to display a good mind map
 8. [[Code Smells]] 
 9. [[Interview Questions]]
 
+### C++ main features: 
+* Generic programming - templates 
+* OOP paradigm 	
+
 ### Graph filters
 Useful filters for graph view:
 * Filters for C++ standards:
 * Filters for language features: 
 * Filters for STL: 
 * Tools filters:  
+
+### Other repos with C++ related notes: 
+https://encelo.github.io/notes.html
 
 ### Tags: 
