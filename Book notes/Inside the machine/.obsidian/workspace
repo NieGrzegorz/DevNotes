@@ -78,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The File-Clerk model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +96,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c46246c0887b7898",
+  "active": "d480dbd9b1847fb7",
   "lastOpenFiles": [
+    "The File-Clerk model.md",
     "Inside the machine.md",
     "ALU.md",
     "Fundamental types of  structures.md",
@@ -105,7 +107,6 @@
     "Main memory.md",
     "Registers.md",
     "CPU instructions.md",
-    "Memory-access instructions.md",
-    "Arithmetic instructions.md"
+    "Memory-access instructions.md"
   ]
 }

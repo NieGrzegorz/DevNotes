@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic Tools/Use single editor well.md",
+            "file": "Pragmatic Approach/Eliminate effects between unrelated things.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Tools/Use single editor well.md",
+                "file": "Pragmatic Approach/Eliminate effects between unrelated things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "f98c2e3339286122",
   "lastOpenFiles": [
+    "Pragmatic Approach/Eliminate effects between unrelated things.md",
     "Use single editor well.md",
     "Basic Tools/Basic Tools.md",
     "Use the power of Command Shells.md",
@@ -106,7 +107,6 @@
     "Pragmatic Approach/Pragmatic Approach.md",
     "Iterate the schedule withe the code.md",
     "Estimate to avoid surprises.md",
-    "Program close to the problem domain.md",
-    "Prototype to learn.md"
+    "Program close to the problem domain.md"
   ]
 }

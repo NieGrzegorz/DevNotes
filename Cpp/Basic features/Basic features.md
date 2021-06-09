@@ -19,6 +19,7 @@ List of core C++ language features.
 * [[Undefined behavior]]
 * [[Stack and heap]]
 * [[Cache in C++]]
+* [[Concurrency]]
 * [[Linkage]]
 
 ### Tags: 
