@@ -18,5 +18,6 @@ No memory overhead is required by deriving a class. Space required by an object 
 ### Multiple inheritance 
 
 #### Diamond problem
+Happens when a class inherits traits of a super class twice. 
 
 ### Tags: 

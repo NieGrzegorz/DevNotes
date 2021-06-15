@@ -49,9 +49,9 @@ a.vf1(); 		// GOOD! Dynamic binding
 
 ### Virtual table 
 Polymorphism in C++ is implemented by means of Virtual Table or VTABLE. 
-* Usual technique of implementing virtual function is to convert the name of a virtual function into the index into a table of pointers to funtions.
+* Usual technique of implementing virtual function is to convert the name of a virtual function into the index into a table of pointers to functions.
 * Each class has its own VTABLE identyfing virtual functions. 
-* VTABLE allows to use an object even if its size and data layoun in not known to the caller. 
+* VTABLE allows to use an object even if its size and data layout in not known to the caller. 
 * Implementation of a caller must know only the location of the pointer to the VTABLE and the index used for each virtual function. 
 * Creating a virtual class causes some space overhead: 1vptr for each object and 1 vtable for each class.
 

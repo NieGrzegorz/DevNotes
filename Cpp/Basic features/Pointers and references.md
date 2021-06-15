@@ -21,7 +21,7 @@ Reference syntax:
 
 ### Pointer vs Reference 
 There are eight major differences between pointers and references: 
-1. Pointers may be nullptr and references cannot be assigned nullptr. But reference can hold address of pointer which is a nullptr. 
+1. Pointers may be **nullptr** and references cannot be assigned **nullptr.** But reference can hold address of pointer which is a nullptr. 
 2. References cannot be stuffed into a container. 
 3. Pointer has to be dereferenced via '\*'  operator to access the memory location it points to, and pointer to struct/class uses '->' operator to access members. Reference can be used directly and always uses '.' to access members of struct/class
 4. Pointers can be reassigned. References must be assigned during the initialization and cannot be reassigned. 

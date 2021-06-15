@@ -6,7 +6,7 @@ Interview questions with links to pages which answer these questions or answers 
 
 ### Cpp General questions
 1. [[Pointers and references#Pointer vs Reference|What are the differences between references and pointers in C++? ]]
-2. [[Polymorphism|What is a virtual function?]]  
+2. [[Polymorphism#Virtual member functions|What is a virtual function?]]  
 3. [[Polymorphism|What is early dispatch, early binding and late binding?]]
 4. [[Classes and objects#this pointer|Can we delete this?]] 
 5. [[Classes and objects#Destructor|Can we call destructor explicitly?]]
