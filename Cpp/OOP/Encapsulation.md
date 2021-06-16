@@ -11,3 +11,4 @@ To enable make encapsulation possible, C++ introduces three access specifiers wh
 ### Benefits:  
 * We can trace on call stack that setter was called. If some code modifies member variable directly, it cannot be traced. 
 * Defining public interface of a class which can be used by other code leads to well structured code. 
+

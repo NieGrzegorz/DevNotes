@@ -15,6 +15,10 @@ A special type of method which is called when object is deleted. Destructor shou
 #### Can we call destructors explicitly? 
 
 ### "this" pointer
+#### Can we delete "this" pointer? 
+Yes - only when object is allocated on heap
+Otherwise = runtime error
+
 
 ### Function objects (Functors)
 	- Function object 

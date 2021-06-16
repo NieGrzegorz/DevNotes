@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview Questions.md",
+            "file": "Basic features/Manual memory allocation.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Basic features/Manual memory allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3cc2ac91193db1b1",
   "lastOpenFiles": [
+    "Basic features/Manual memory allocation.md",
     "Interview Questions.md",
-    "Basic features/Data types.md",
+    "Contents - START HERE.md",
     "OOP/Classes and objects.md",
+    "Basic features/Undefined behavior.md",
     "Basic features/Linkage.md",
-    "Basic features/Templates.md",
-    "Basic features/Compilation process.md",
-    "Standards/Cpp11/Lambda expressions.md",
+    "Basic features/Functions.md",
     "OOP/Inheritance.md",
-    "OOP/Encapsulation.md",
-    "OOP/Polymorphism.md"
+    "OOP/Polymorphism.md",
+    "OOP/OOP.md"
   ]
 }
