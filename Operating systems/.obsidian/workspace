@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Concepts/File system/File system.md",
+            "file": "General.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "General Concepts/File system/File system.md",
+            "file": "General.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Concepts/File system/File system.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,8 @@
   },
   "active": "8ede14c05ea5402f",
   "lastOpenFiles": [
+    "General.md",
+    "General Concepts/General Concepts.md",
     "General Concepts/File system/File system.md",
     "Windows/Windows.md",
     "Operating systems.md",
@@ -132,8 +134,6 @@
     "Unix/Linux/Linux.md",
     "Unix/Unix-based systems.md",
     "General Concepts/Process Management.md",
-    "General Concepts/General Concepts.md",
-    "General Concepts/Memory Management/Virtual memory/Virtual memory.md",
-    "Virtual memory.md"
+    "General Concepts/Memory Management/Virtual memory/Virtual memory.md"
   ]
 }
