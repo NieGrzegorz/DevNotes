@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview Questions.md",
-            "mode": "preview"
+            "file": "Coding examples.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Coding examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3cc2ac91193db1b1",
   "lastOpenFiles": [
+    "Coding examples.md",
+    "Contents - START HERE.md",
+    "Standard library/Standard library.md",
     "Interview Questions.md",
-    "Basic features/Data types.md",
+    "Basic features/Manual memory allocation.md",
     "OOP/Classes and objects.md",
+    "Basic features/Undefined behavior.md",
     "Basic features/Linkage.md",
-    "Basic features/Templates.md",
-    "Basic features/Compilation process.md",
-    "Standards/Cpp11/Lambda expressions.md",
-    "OOP/Inheritance.md",
-    "OOP/Encapsulation.md",
-    "OOP/Polymorphism.md"
+    "Basic features/Functions.md",
+    "OOP/Inheritance.md"
   ]
 }

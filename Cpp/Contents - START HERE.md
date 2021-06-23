@@ -10,7 +10,8 @@ I am constatntly moving my notes from different sources.
 6. [[Frameworks]] 
 7. [[Guidelines]] 
 8. [[Code Smells]] 
-9. [[Interview Questions]]
+9. [[Coding examples]]
+10. [[Interview Questions]]
 
 ### C++ main features: 
 * Generic programming - templates 

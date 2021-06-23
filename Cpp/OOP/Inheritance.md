@@ -7,6 +7,9 @@ One of four pillars of [[OOP|Object Oriented Programming]].
 
 Inheritance is a language mechanism to represent relations between classes, that is, to express the commonalities between classes. 
 
+### Inheritance modes 
+![Access specifiers for inheritance](access_spec.png)
+
 ### Types of inheritance 
 * Implementation inheritance -> to save implementation effort by sharing facilities provided by a base class. 
 * Interface inheritance -> to allow different derived classes to be used interchangebly through the onterface provided by base class (see [[Polymorphism]]). 
