@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Common problems.md",
+            "file": "Data Structures/Array.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common problems.md",
+                "file": "Data Structures/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "995aeb7eb4b32d26",
   "lastOpenFiles": [
+    "Data Structures/Array.md",
+    "Data Structures/Linked List.md",
+    "Data Structures/Data Structures.md",
     "Common problems.md",
     "Content.md",
     "Most important concepts.md",

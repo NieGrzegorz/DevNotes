@@ -4,13 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc2ac91193db1b1",
+        "id": "bfd185cf8360591f",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Standards/Standards.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "b96db0c49225fd49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Coding examples.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -86,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cc2ac91193db1b1",
+  "active": "b96db0c49225fd49",
   "lastOpenFiles": [
     "Coding examples.md",
     "Contents - START HERE.md",
-    "Interview Questions.md",
+    "Tools/Tools.md",
+    "Tools/Compilers.md",
     "Standard library/Standard library.md",
-    "Basic features/Manual memory allocation.md",
-    "OOP/Classes and objects.md",
-    "Basic features/Undefined behavior.md",
-    "Basic features/Linkage.md",
-    "Basic features/Functions.md",
-    "OOP/Inheritance.md"
+    "Standard library/Thread support library/Thread support library.md",
+    "Standard library/Containers library/Containers library.md",
+    "OOP/Static fields.md",
+    "OOP/RAII.md",
+    "OOP/Polymorphism.md"
   ]
 }
