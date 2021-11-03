@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding examples.md",
+            "file": "Interview Questions.md",
             "mode": "preview"
           }
         }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding examples.md",
+                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,7 @@
   },
   "active": "b96db0c49225fd49",
   "lastOpenFiles": [
+    "Interview Questions.md",
     "Coding examples.md",
     "Contents - START HERE.md",
     "Tools/Tools.md",
@@ -133,7 +134,6 @@
     "Standard library/Thread support library/Thread support library.md",
     "Standard library/Containers library/Containers library.md",
     "OOP/Static fields.md",
-    "OOP/RAII.md",
-    "OOP/Polymorphism.md"
+    "OOP/RAII.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structures/Array.md",
+            "file": "Most important concepts.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Array.md",
+                "file": "Most important concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "995aeb7eb4b32d26",
   "lastOpenFiles": [
-    "Data Structures/Array.md",
-    "Data Structures/Linked List.md",
-    "Data Structures/Data Structures.md",
-    "Common problems.md",
-    "Content.md",
     "Most important concepts.md",
+    "Content.md",
+    "Common problems.md",
     "Algorithms.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Linked List.md",
+    "Data Structures/Array.md",
     "Untitled.md"
   ]
 }
