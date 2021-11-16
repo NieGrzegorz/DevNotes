@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General.md",
+            "file": "Operating systems.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "General.md",
+            "file": "Operating systems.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "Operating systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "8ede14c05ea5402f",
   "lastOpenFiles": [
-    "General.md",
+    "Operating systems.md",
     "General Concepts/General Concepts.md",
+    "General.md",
+    "General Concepts/Memory Management/Main memory/Basic information.md",
+    "General Concepts/Memory Management/Main memory/Adress binding.md",
     "General Concepts/File system/File system.md",
     "Windows/Windows.md",
-    "Operating systems.md",
     "Unix/Linux/Kernel.md",
     "Unix/Linux/Linux.md",
-    "Unix/Unix-based systems.md",
-    "General Concepts/Process Management.md",
-    "General Concepts/Memory Management/Virtual memory/Virtual memory.md"
+    "Unix/Unix-based systems.md"
   ]
 }
