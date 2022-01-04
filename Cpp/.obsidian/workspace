@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd185cf8360591f",
+        "id": "50438603e260a9cb",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Standards/Standards.md",
+            "file": "Interview Questions.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -36,18 +35,17 @@
               "scale": 1,
               "close": false
             }
-          },
-          "pinned": true
+          }
         }
       },
       {
-        "id": "b96db0c49225fd49",
+        "id": "3d02089bf3eea9c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Interview Questions.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -123,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b96db0c49225fd49",
+  "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
     "Interview Questions.md",
-    "Coding examples.md",
-    "Contents - START HERE.md",
-    "Tools/Tools.md",
-    "Tools/Compilers.md",
-    "Standard library/Standard library.md",
-    "Standard library/Thread support library/Thread support library.md",
-    "Standard library/Containers library/Containers library.md",
-    "OOP/Static fields.md",
-    "OOP/RAII.md"
+    "Standards/Cpp11/C++11 Language features.md",
+    "Standards/Cpp11/Lambda expressions.md",
+    "Standards/Cpp14/C++ 14 Language features.md",
+    "Standards/Cpp14/C++ 14 Library features.md",
+    "Standards/Cpp11/Smart pointers.md",
+    "Standards/Cpp11/Rvalue references.md",
+    "Standards/Cpp11/Forwarding references.md",
+    "Standards/Cpp11/Move semantics.md",
+    "Standards/Cpp17/C++ 17 Library features.md"
   ]
 }
