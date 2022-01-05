@@ -76,3 +76,10 @@ def named(**kwargs):
 	print(kwargs) // dictionary
 	
 named(name = "Bob", age = 21)
+
+
+type hinting: explicitly hint a type: 
+
+
+def foo(sequence: list) -> float: 
+// hint that arg should be list and should return a floating point value 
