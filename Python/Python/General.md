@@ -83,3 +83,72 @@ type hinting: explicitly hint a type:
 
 def foo(sequence: list) -> float: 
 // hint that arg should be list and should return a floating point value 
+
+Imports: 
+import -file- // import everything from a file 
+from --file-- import --thing-- // import --thing-- from a file 
+
+import sys 
+sys.path - paths from which python can import
+
+retlative imports: 
+
+
+Errors in python: 
+	raise ErrorName() // creating exception object  
+	
+catching: 
+try: 
+	//code to cry 
+except ErrorName as e: // e is the instance of the exception ('as e part ' is optional) 
+	//error handling code 
+	
+comon errors
+TypeError ValueError RuntimeError 
+
+you can add else: after except: 
+and finally: 
+there can be multiple except clauses 
+	
+
+Custom error classes :
+class CustomError(ValueError): 
+	// code 
+	
+custom error class must inherit from other exception (Exception or ValueError for instance)
+
+First-class functions: Function that is just a variable that can be passed
+
+Decorators: 
+
+def decorator_func(func): 
+	def decorate(): 
+		//code 
+		
+	return decorate
+
+function = decorator_func(function)
+Decorator decorates existing function, replaces it 
+
+"at" syntax:  // Instead of assigning a function a new value 
+
+@decorator_func  // decorates 
+def function: 
+	//code 
+
+functools 
+
+@functools.wraps(functions) // keeps name for decorated function IMPORTANT 
+
+Decorating functions with params: 
+
+add *args, **kwargs  
+as  param to replacing function** 
+
+Decorator with parameters : 
+	// add another level of decorator 
+
+
+Mutability in python: 
+
+Dont use mutable default parameter values 
