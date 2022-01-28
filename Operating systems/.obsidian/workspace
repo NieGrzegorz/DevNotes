@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operating systems.md",
+            "file": "Unix/Linux/Linux sockets/Sockets general.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Operating systems.md",
+            "file": "Unix/Linux/Linux sockets/Sockets general.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating systems.md",
+                "file": "Unix/Linux/Linux sockets/Sockets general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,8 @@
   },
   "active": "8ede14c05ea5402f",
   "lastOpenFiles": [
+    "Unix/Linux/Linux sockets/Sockets general.md",
+    "Unix/Linux/Linux sockets/Networking theory.md",
     "Operating systems.md",
     "General Concepts/General Concepts.md",
     "General.md",
@@ -132,8 +134,6 @@
     "General Concepts/Memory Management/Main memory/Adress binding.md",
     "General Concepts/File system/File system.md",
     "Windows/Windows.md",
-    "Unix/Linux/Kernel.md",
-    "Unix/Linux/Linux.md",
-    "Unix/Unix-based systems.md"
+    "Unix/Linux/Kernel.md"
   ]
 }
