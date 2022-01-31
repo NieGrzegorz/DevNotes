@@ -6,10 +6,11 @@
       {
         "id": "50438603e260a9cb",
         "type": "leaf",
+        "dimension": 58.13636363636364,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Interview Questions.md",
+            "file": "Basic features/Constants.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -32,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.4019828977761022,
               "close": false
             }
           }
@@ -41,10 +42,11 @@
       {
         "id": "3d02089bf3eea9c9",
         "type": "leaf",
+        "dimension": 41.86363636363637,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview Questions.md",
+            "file": "Basic features/Constants.md",
             "mode": "source"
           }
         }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Basic features/Constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +125,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Interview Questions.md",
+    "Basic features/Constants.md",
     "Standards/Cpp11/C++11 Language features.md",
+    "Interview Questions.md",
+    "Standards/Cpp11/C++11 Library features.md",
     "Standards/Cpp11/Lambda expressions.md",
     "Standards/Cpp14/C++ 14 Language features.md",
     "Standards/Cpp14/C++ 14 Library features.md",
     "Standards/Cpp11/Smart pointers.md",
     "Standards/Cpp11/Rvalue references.md",
-    "Standards/Cpp11/Forwarding references.md",
-    "Standards/Cpp11/Move semantics.md",
-    "Standards/Cpp17/C++ 17 Library features.md"
+    "Standards/Cpp11/Forwarding references.md"
   ]
 }
