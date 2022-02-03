@@ -1,0 +1,4 @@
+# Trailing return type
+
+``
+``
