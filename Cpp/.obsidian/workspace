@@ -6,51 +6,12 @@
       {
         "id": "3d02089bf3eea9c9",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Standards/Cpp11/auto.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "a32688c132bdcd3d",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Standards/Cpp11/auto.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          },
-          "pinned": true
+            "mode": "source"
+          }
         }
       }
     ],
@@ -128,14 +89,14 @@
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
     "Standards/Cpp11/auto.md",
-    "Standards/Cpp11/C++11 Language features.md",
-    "Basic features/Constants.md",
-    "Interview Questions.md",
-    "Standards/Cpp11/C++11 Library features.md",
-    "Standards/Cpp11/Lambda expressions.md",
-    "Standards/Cpp14/C++ 14 Language features.md",
-    "Standards/Cpp14/C++ 14 Library features.md",
+    "Standards/Cpp11/Rvalue references.md",
     "Standards/Cpp11/Smart pointers.md",
-    "Standards/Cpp11/Rvalue references.md"
+    "Standards/Cpp11/Static assertions.md",
+    "Standards/Cpp11/nullptr.md",
+    "Standards/Cpp11/C++11 Language features.md",
+    "Standards/Cpp11/Type aliases.md",
+    "Standards/Cpp11/C++11 Library features.md",
+    "Standards/Cpp11/Cpp11.md",
+    "Standards/Cpp11/Forwarding references.md"
   ]
 }
