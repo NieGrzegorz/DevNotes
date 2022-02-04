@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Standards/Cpp11/Right angle brackets.md",
+            "file": "Standards/Cpp11/Trailing return types.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standards/Cpp11/Right angle brackets.md",
+                "file": "Standards/Cpp11/Trailing return types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Standards/Cpp11/Right angle brackets.md",
-    "Standards/Cpp11/Rvalue references.md",
-    "Standards/Cpp11/Static assertions.md",
     "Standards/Cpp11/Trailing return types.md",
+    "Standards/Cpp14/Cpp14.md",
+    "Standards/Cpp11/auto.md",
+    "Standards/Cpp11/Rvalue references.md",
+    "Standards/Cpp11/Right angle brackets.md",
+    "Standards/Cpp11/Static assertions.md",
     "Standards/Cpp11/Type aliases.md",
     "Standards/Cpp11/nullptr.md",
     "Standards/Cpp11/Smart pointers.md",
-    "Standards/Cpp11/C++11 Language features.md",
-    "Standards/Cpp11/auto.md",
-    "Standards/Cpp11/Inline namespaces.md"
+    "Standards/Cpp11/C++11 Language features.md"
   ]
 }
