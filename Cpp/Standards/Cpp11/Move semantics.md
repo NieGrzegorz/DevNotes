@@ -2,22 +2,19 @@
 
 One of [[C++11 Language features]]. 
 
-
+## What is move semantics? 
 Main idea is to transfer ownership of objects from one object instance to another.
-
 It enables to create move constructor and move assignment operator.
 
-Move constructor:
-
-class A
-
+## Move operations 
+```C++
+class Movable
 {
-
- // Move constructor
-
- A(A&& tmp);
-
-}
+	public: 
+        // Move constructor
+        A(A&& tmp);
+};
+```
 
 Tags: 
 #cpp11

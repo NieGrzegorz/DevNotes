@@ -60,8 +60,7 @@ Interview questions with links to pages which answer these questions or answers 
 53. [[Data types#Variables#Global variables|Where and when are global variables initialized]] 
 54. [[Data types#Variables#Global variables|When global variables are destroyed?]]
 55. [[Data types#Variables#Global variables|Are global variables thread safe?]]
-56. What is virtual inheritance? 
-57. 
+56. [[What is virtual inheritance?]]
 
 ### Tags: 
 #interview

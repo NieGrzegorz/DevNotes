@@ -2,7 +2,7 @@
 
 
 ### Replace char in std::string with another string
-```
+```C++
 
 std::string str = "Text to replace.";
 std::string to_replace = "."; 
