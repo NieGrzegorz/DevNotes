@@ -3,6 +3,20 @@ An alternative way of referring to an object; often a name, pointer, or referenc
 
 Semantically similar to using a typedef however, type aliases with using are easier to read and are compatible with templates.
 
+## Examples 
+### Templated alias 
+```C++
+
+template <typename T> 
+using Cache = std::vector<std::shared_ptr<T>>; 
+
+int main()
+{
+	Cache<Gui::Screen> screenCache; 
+	return 0; 
+}
+```
+
 ## Tips 
 T.43: Prefer using over typedef for defining aliases. 
 

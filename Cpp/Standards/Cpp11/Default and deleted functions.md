@@ -5,6 +5,24 @@ A more elegant, efficient way to provide a default implementation of a function,
 ## Deleted functions 
  A more elegant, efficient way to provide a deleted implementation of a function. Useful for preventing copies on objects.
  
+ ## Syntax 
+ 
+ ```C++ 
+class Controller 
+{
+	public:
+		Controller() = default; 	// Explicitly mark as default
+		explicit Controller(unsigned int identifier); 
+	
+		// Prevent copy operations 
+		Controller(const Controller&) = delete; 
+		Controller& operator=(const Controller& copy) = delete; 
+	
+		// Prevent move operations 
+		Controller(const Controller&&) = delete; 
+		Controller& operator=(const Controller&) = delete;
+};
+ ```
  ## Tips 
  EMC++ Punkt 11:  Preferuj funkcje usunięte zamiast prywatnych niezdefiniowanych
 Wyjaśnienie: 

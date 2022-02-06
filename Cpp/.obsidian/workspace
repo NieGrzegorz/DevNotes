@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contents - START HERE.md",
+            "file": "Standards/Cpp11/Inline namespaces.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents - START HERE.md",
+                "file": "Standards/Cpp11/Inline namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Contents - START HERE.md",
+    "Standards/Cpp11/Inline namespaces.md",
+    "Standards/Cpp11/Trailing return types.md",
+    "Standards/Cpp11/Type aliases.md",
+    "Standards/Cpp11/Right angle brackets.md",
+    "Standards/Cpp11/Default and deleted functions.md",
+    "Standards/Cpp11/Final specifier.md",
+    "Standards/Cpp11/Explicit virtual overrides.md",
     "Interview Questions.md",
     "Frameworks.md",
-    "Standards/Cpp11/Default and deleted functions.md",
-    "Coding examples.md",
-    "Tools/Tools.md",
-    "Tools/Compilers.md",
-    "Standards/Standards.md",
-    "Standards/Cpp17/Cpp17.md",
-    "Standards/Cpp17/C++ 17 Library features.md"
+    "Contents - START HERE.md"
   ]
 }
