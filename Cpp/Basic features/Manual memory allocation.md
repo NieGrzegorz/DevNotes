@@ -5,7 +5,6 @@ C++ enables dynamic memory allocation by using new and delete operators. Using n
 ### C++ memory allocation vs C-style memory allocation
 
 New/delete: 
-* Memory allocated from Free Store 
 * Returns a fully typed pointer 
 * new never returns null - it throws exception on failure 
 * Has version to handle arrays 
@@ -14,7 +13,6 @@ New/delete:
 * Constructor/destructor is called 
 
 malloc/free:
-* Memory allocated from Heap
 * Returns a void*
 * Must specify the size required in bytes
 * Realocating larger chunk of memory is simple (no copy constructor) 

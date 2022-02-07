@@ -13,5 +13,9 @@ OOP features of C++ language:
 * [[Friendship]]
 * [[Static fields]]
 
+## General info 
+
+## OOP design 
+
 ### Tags:
 #oop

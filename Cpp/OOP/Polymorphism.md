@@ -17,7 +17,7 @@ Early dispatch, early binding, static binding, compile-time polymorphism - it ha
 
 Static binding -> calling a ficed function address (in assembly)
 Dynamic binding -> calling variable address by using VPTR: 
-```
+```C++
 (*(p->vptr[n])(p))			// p is 'this' pointer
 ```
 
@@ -25,14 +25,14 @@ Dynamic binding -> calling variable address by using VPTR:
 * We hate to use a pointer
 * Pointer must call a virtual function
 
-```
+```C++
 B b; 
 A a = (A)b; 
 a.vf1(); 		/// WRONG! Static binding
 ```
 
 
-```
+```C++
 A a = new B(); 
 a.vf1(); 		// GOOD! Dynamic binding 
 ```

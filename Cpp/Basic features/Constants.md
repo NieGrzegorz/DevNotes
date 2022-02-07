@@ -67,8 +67,5 @@ We can make const a whole member function which means that the funciton does not
 #### functions returning const
 
 
-
-
-
 ### Tags:
 #cppbasic

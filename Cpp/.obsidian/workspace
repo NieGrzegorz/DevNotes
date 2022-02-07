@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Standards/Cpp11/Initializer lists.md",
+            "file": "Basic features/Basic features.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standards/Cpp11/Initializer lists.md",
+                "file": "Basic features/Basic features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Standards/Cpp11/Initializer lists.md",
-    "Standards/Cpp11/C++11 Language features.md",
-    "Standards/Cpp11/Trailing return types.md",
-    "Standards/Cpp11/Type aliases.md",
-    "Standards/Standards.md",
-    "Tools/Compilers.md",
-    "Standards/Cpp11/Inline namespaces.md",
-    "Standards/Cpp11/Right angle brackets.md",
-    "Standards/Cpp11/Default and deleted functions.md",
-    "Standards/Cpp11/Final specifier.md"
+    "Basic features/Basic features.md",
+    "Basic features/Cache in C++.md",
+    "Basic features/Compilation process.md",
+    "Basic features/Undefined behavior.md",
+    "Basic features/Templates.md",
+    "Basic features/Static and dynamic libraries.md",
+    "Basic features/Program execution.md",
+    "Basic features/Pointers and references.md",
+    "Basic features/Namespaces.md",
+    "Basic features/Manual memory allocation.md"
   ]
 }

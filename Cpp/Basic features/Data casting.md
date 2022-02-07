@@ -30,4 +30,6 @@ It can cast pointers to integer types. The guarantee is that casted pointer will
 ### const_cast
 Manipulates with the constness of an object. It sets the value const or removes const. 
 
+### any_cast (C++17)
+
 ### C-style cast (Legacy)
