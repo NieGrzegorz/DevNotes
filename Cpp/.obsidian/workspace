@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Standards/Cpp11/Inline namespaces.md",
+            "file": "Standards/Cpp11/Initializer lists.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standards/Cpp11/Inline namespaces.md",
+                "file": "Standards/Cpp11/Initializer lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Standards/Cpp11/Inline namespaces.md",
+    "Standards/Cpp11/Initializer lists.md",
+    "Standards/Cpp11/C++11 Language features.md",
     "Standards/Cpp11/Trailing return types.md",
     "Standards/Cpp11/Type aliases.md",
+    "Standards/Standards.md",
+    "Tools/Compilers.md",
+    "Standards/Cpp11/Inline namespaces.md",
     "Standards/Cpp11/Right angle brackets.md",
     "Standards/Cpp11/Default and deleted functions.md",
-    "Standards/Cpp11/Final specifier.md",
-    "Standards/Cpp11/Explicit virtual overrides.md",
-    "Interview Questions.md",
-    "Frameworks.md",
-    "Contents - START HERE.md"
+    "Standards/Cpp11/Final specifier.md"
   ]
 }
