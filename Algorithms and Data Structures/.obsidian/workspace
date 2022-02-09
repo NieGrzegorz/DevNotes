@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Most important concepts.md",
+            "file": "Data Structures/Binary tree.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most important concepts.md",
+                "file": "Data Structures/Binary tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "995aeb7eb4b32d26",
   "lastOpenFiles": [
-    "Most important concepts.md",
+    "Data Structures/Binary tree.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Linked List.md",
+    "Binary trees.md",
+    "Data Structures/Array.md",
+    "Big O.md",
     "Common problems.md",
     "Content.md",
-    "Algorithms/Sorting.md",
-    "Algorithms/Algorithms.md",
-    "Data Structures/Data Structures.md",
-    "Big O.md",
-    "Data Structures/Linked List.md",
-    "Data Structures/Array.md",
-    "Untitled.md"
+    "Most important concepts.md"
   ]
 }

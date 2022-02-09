@@ -1,5 +1,4 @@
-Data Structures 
-
+# Data Structures 
 
 [[Array]]
 [[Linked List]]
