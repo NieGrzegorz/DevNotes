@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structures/Binary tree.md",
+            "file": "Data Structures/Array.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Binary tree.md",
+                "file": "Data Structures/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "995aeb7eb4b32d26",
   "lastOpenFiles": [
+    "Data Structures/Array.md",
+    "Data Structures/Linked List.md",
+    "Data Structures/Data Structures.md",
     "Data Structures/Binary tree.md",
     "Data Structures/Trees.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Linked List.md",
     "Binary trees.md",
-    "Data Structures/Array.md",
     "Big O.md",
     "Common problems.md",
     "Content.md",

@@ -35,6 +35,9 @@ Typical problem which can be solved with two pointer technique is determining if
 - If **fast pointer** ends up at the end of the list (next node is nullptr), **there is no cycle**
 - If **ther is a cycle**, **fast pointer** and **slow pointer** will point at  the same node eventually. 
 
+### Return the first node of the cycle
+
+
 List related problems: 
 - Reverse Linked List
 - Determine if a list has a cycle  
