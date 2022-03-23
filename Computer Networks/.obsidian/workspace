@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "7dce97cd676534b5",
+    "id": "60ad7c5f3777f305",
     "type": "split",
     "children": [
       {
-        "id": "d0e41465d6eb95ff",
+        "id": "3233a35e4e30666f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Basic terms.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "df295b8e3a1a5035",
+    "id": "48932b33754619cb",
     "type": "split",
     "children": [
       {
-        "id": "7c7455b169d3faf1",
+        "id": "751d37c961eeef41",
         "type": "tabs",
         "children": [
           {
-            "id": "171a076b262f63d8",
+            "id": "ec1c6f82c71a0e5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "b62e6dd7151c9b85",
+            "id": "d6518b9c49727a65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "d33ccc0d3c42b8a9",
+    "id": "2915ba1db3c7c68d",
     "type": "split",
     "children": [
       {
-        "id": "f625752028ea5bed",
+        "id": "1e7fc41ab26e4fec",
         "type": "tabs",
         "children": [
           {
-            "id": "c1499a2adffe2603",
+            "id": "42904f3aec724b54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0e41465d6eb95ff",
+  "active": "3233a35e4e30666f",
   "lastOpenFiles": [
-    "Big O.md",
-    "Data Structures/Array.md",
-    "Data Structures/Linked List.md",
-    "Data Structures/Data Structures.md",
-    "Data Structures/Binary tree.md",
-    "Data Structures/Trees.md",
-    "Binary trees.md",
-    "Common problems.md",
-    "Content.md",
-    "Most important concepts.md"
+    "Basic terms.md",
+    "Contents.md"
   ]
 }
