@@ -20,4 +20,4 @@ End systems, packet switches and other pieces of the Internet run protocols that
 ### Request for comment  (RFC)
 The Internet standards are developed by the Internet Engineering Task Force. Their documents are called requests for comments. They define the protocols and other network stuff
 
-[[Socket interface]]
+End systems attached to the[[Socket interface]]
