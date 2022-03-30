@@ -39,3 +39,27 @@ Uses the same infrastructure from cable television provider.
 
 Fiber and coaxial cables are used called hybrid fiber coax (HFC)
 - Requires special modems called cable modems 
+
+#### FTTH (Fiber to the home)
+Optical fiber path from the CO directly to the home. 
+
+
+### Physical media 
+- HFC - combination of fiber calbe and coaxial cable 
+- DSL and Ethernet - copper wire
+- Mobile - radio spectrum 
+
+How a bit is transfered between end systems? 
+For each transmitter-receiver pair, the bit is sent by propagating electromagnetic waves or optical pulses across a physical medium
+
+types of physical media: twisted-pair copper wire, coaxial cable, multimode fiber-optic cable, terrestual radio spectrum, satelite radio spectrum. 
+
+There are 2 groups of physical media: guided and unguided 
+
+Essentials: 
+Packet switching 
+Circuit switching 
+Bandwidth
+
+"+ With FDM, each circuit continuously gets a fraction of the bandwidth. With TDM, each circuit gets all of the bandwidth periodically during brief intervals of time (that is, during slots)"
+
