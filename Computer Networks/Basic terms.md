@@ -63,3 +63,13 @@ Bandwidth
 
 "+ With FDM, each circuit continuously gets a fraction of the bandwidth. With TDM, each circuit gets all of the bandwidth periodically during brief intervals of time (that is, during slots)"
 
+
+### Types of delay in packed switched networks
+- Processing delay - The time required to examine the packet's header and determine where to direct thte packer. In high-speed routers are on the order of microseconds or less. After processing packet does to queue. 
+- Queuing delay - time when packet waits in queue ti be transmited onto the link. Depends on number of packet waiting. Order of microseconds to miliseconds in practice. 
+- Transmission delay - L bits, R is rate (bits/second). Transmission delay is L/R. It is the amount of time needed to transmit all of the packet bits into the link. Microseconds to miliseconds. 
+- Propagation delay - Time required to propagate from the beginning of the link to the next router. The bit propagates at the propagation speed of the link. Depends on the physical medium (fiber optics, copper wire). Propagation delay is the distance between 2 routers divided by the propagation speed. 
+
+#### Transmission delay vs Propagation delay
+Transmission delay - time required by the router to push packets into the link, it has nothing to do with a distance between routers 
+Propagation delay - time required to transmit over the medium to the next router. 
