@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview questions.md",
+            "file": "Core concepts and syntax.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205
   },
   "right": {
     "id": "1123b6ef411bc871",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview questions.md",
+                "file": "Core concepts and syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "bbe7c6c1223286a1",
   "lastOpenFiles": [
-    "Interview questions.md",
-    "Contents.md"
+    "Core concepts and syntax.md",
+    "Contents.md",
+    "Cargo.md",
+    "Interview questions.md"
   ]
 }
