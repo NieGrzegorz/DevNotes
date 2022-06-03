@@ -1,1 +1,37 @@
-{"collapse-filter":false,"search":"tag:#cppbasic OR #","showTags":false,"showAttachments":false,"hideUnresolved":false,"showOrphans":true,"collapse-color-groups":false,"colorGroups":[{"query":"tag:#cppbasic","color":{"a":1,"rgb":2799411}},{"query":"tag:#cpp11","color":{"a":1,"rgb":752526}}],"collapse-display":true,"showArrow":false,"textFadeMultiplier":-3,"nodeSizeMultiplier":1,"lineSizeMultiplier":1,"collapse-forces":false,"centerStrength":0.0325667134831461,"repelStrength":8.51650280898876,"linkStrength":0.624648876404494,"linkDistance":355,"scale":0.2588386562181736,"close":false}
+{
+  "collapse-filter": false,
+  "search": "tag:#cppbasic OR #",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#cppbasic",
+      "color": {
+        "a": 1,
+        "rgb": 2799411
+      }
+    },
+    {
+      "query": "tag:#cpp11",
+      "color": {
+        "a": 1,
+        "rgb": 752526
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0325667134831461,
+  "repelStrength": 8.51650280898876,
+  "linkStrength": 0.624648876404494,
+  "linkDistance": 355,
+  "scale": 0.10083989610713646,
+  "close": false
+}

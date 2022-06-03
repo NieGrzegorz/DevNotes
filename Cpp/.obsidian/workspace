@@ -7,11 +7,8 @@
         "id": "3d02089bf3eea9c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Basic features/Basic features.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic features/Basic features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,8 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
+    "Standards/Standards.md",
+    "Contents - START HERE.md",
     "Basic features/Basic features.md",
     "Basic features/Cache in C++.md",
     "Basic features/Compilation process.md",
@@ -95,8 +93,6 @@
     "Basic features/Templates.md",
     "Basic features/Static and dynamic libraries.md",
     "Basic features/Program execution.md",
-    "Basic features/Pointers and references.md",
-    "Basic features/Namespaces.md",
-    "Basic features/Manual memory allocation.md"
+    "Basic features/Pointers and references.md"
   ]
 }

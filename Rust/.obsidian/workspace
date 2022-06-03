@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core concepts and syntax.md",
+            "file": "Ownership.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core concepts and syntax.md",
+                "file": "Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "bbe7c6c1223286a1",
   "lastOpenFiles": [
-    "Core concepts and syntax.md",
+    "Ownership.md",
     "Contents.md",
+    "Core concepts and syntax.md",
     "Cargo.md",
     "Interview questions.md"
   ]
