@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/General.md",
+            "file": "Python/Flask/Flask general.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/General.md",
+                "file": "Python/Flask/Flask general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "971b603e5b69b3b9",
   "lastOpenFiles": [
+    "Python/Flask/Flask general.md",
+    "Python/Flask/Web general.md",
+    "Virtual environment.md",
     "Python/General.md",
     "Python/OOP in python.md"
   ]

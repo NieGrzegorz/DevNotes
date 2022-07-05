@@ -20,3 +20,7 @@ def foo(name):
 
 
 request package 
+
+
+Test first design: 
+flask_restful -> Resource and Api to import 
