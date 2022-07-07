@@ -27,4 +27,6 @@ Passing by reference is called borrowing since the instance is borrowed and we d
 
 Passing by reference is immutable by default. Reference must be explicitly marked as mut to modify the object pointed by the reference. 
 
+## Slice type 
+
 

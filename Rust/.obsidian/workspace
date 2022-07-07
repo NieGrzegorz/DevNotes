@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ownership.md",
+            "file": "Contents.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ownership.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,13 @@
   },
   "active": "bbe7c6c1223286a1",
   "lastOpenFiles": [
-    "Ownership.md",
     "Contents.md",
+    "Pattern matching.md",
+    "Interview questions.md",
     "Core concepts and syntax.md",
-    "Cargo.md",
-    "Interview questions.md"
+    "Structs.md",
+    "Enums and pattern matching.md",
+    "Ownership.md",
+    "Cargo.md"
   ]
 }
