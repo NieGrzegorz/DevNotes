@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Flask/Flask general.md",
-            "mode": "source"
+            "file": "Python/Data structures.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Flask/Flask general.md",
+                "file": "Python/Data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +89,11 @@
   },
   "active": "971b603e5b69b3b9",
   "lastOpenFiles": [
-    "Python/Flask/Flask general.md",
-    "Python/Flask/Web general.md",
-    "Virtual environment.md",
     "Python/General.md",
-    "Python/OOP in python.md"
+    "Virtual environment.md",
+    "Python/OOP in python.md",
+    "Python/Interview questions.md",
+    "Python/Flask/Web general.md",
+    "Python/Flask/Flask general.md"
   ]
 }

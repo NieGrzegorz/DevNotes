@@ -7,9 +7,50 @@
         "id": "3d02089bf3eea9c9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Tools/Tools.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "031ad25528962048"
+      },
+      {
+        "id": "b1ab2c36547078e7",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Tools/Tools.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "tag:#interview",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.5843581180567526,
+              "close": false
+            }
+          }
+        },
+        "group": "031ad25528962048"
       }
     ],
     "direction": "vertical"
@@ -65,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +126,15 @@
   },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
-    "Standards/Standards.md",
+    "Tools/Compilers.md",
+    "Coding examples.md",
     "Contents - START HERE.md",
-    "Basic features/Basic features.md",
-    "Basic features/Cache in C++.md",
-    "Basic features/Compilation process.md",
-    "Basic features/Undefined behavior.md",
-    "Basic features/Templates.md",
-    "Basic features/Static and dynamic libraries.md",
-    "Basic features/Program execution.md",
-    "Basic features/Pointers and references.md"
+    "Frameworks.md",
+    "Interview Questions.md",
+    "OOP/Polymorphism.md",
+    "OOP/Classes and objects.md",
+    "OOP/OOP.md",
+    "Standards/Standards.md",
+    "Standards/Cpp14/Cpp14.md"
   ]
 }

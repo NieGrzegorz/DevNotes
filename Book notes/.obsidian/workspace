@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "ab159177cc8d57bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed643bb0c213ba8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inside the machine/Inside the machine.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ae3373ae749061",
+    "type": "split",
+    "children": [
+      {
+        "id": "6894e0b2500b7375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e4555a72151168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "409bd76fc5e4eca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1881765f3f2212f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b00b8db2e526d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d06cc42d90b5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88633e2dfe03afb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inside the machine/Inside the machine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e70daa5bba057549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inside the machine/Inside the machine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c681595d1fed1c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8291d4cdcd838e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inside the machine/Inside the machine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ed643bb0c213ba8",
+  "lastOpenFiles": [
+    "Pragmatic Programmer/Pragmatic Philosophy/Pragmatic Phillosophy.md",
+    "Pragmatic Programmer/Pragmatic Approach/Pragmatic Approach.md",
+    "Pragmatic Programmer/Pragmatic Approach/DRY.md",
+    "Pragmatic Programmer/Basic Tools/Basic Tools.md"
+  ]
+}
