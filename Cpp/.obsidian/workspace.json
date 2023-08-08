@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d02089bf3eea9c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Basic features/Basic features.md",
-            "mode": "source",
-            "source": false
+        "id": "347f64e80fc79d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d02089bf3eea9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -47,6 +55,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b896c8171f613a80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic features/Basic features.md",
+                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +103,26 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "3d02089bf3eea9c9",
   "lastOpenFiles": [
+    "Basic features/Pointers and references.md",
+    "Interview Questions.md",
+    "Basic features/Basic features.md",
     "Basic features/Compilation process.md",
     "Basic features/Constants.md",
     "Basic features/Data casting.md",
     "Basic features/Data types.md",
     "Basic features/Exceptions.md",
-    "Basic features/Pointers and references.md",
     "Basic features/Cache in C++.md",
-    "Basic features/Basic features.md",
-    "Interview Questions.md",
     "OOP/Classes and objects.md"
   ]
 }

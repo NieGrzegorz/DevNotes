@@ -78,6 +78,8 @@ let first = tup.0; // access the first element of a tuple
 
 ```
 
+The tuple without any values has a special name, _unit_. This value and its corresponding type are both written `()` and represent an empty value or an empty return type. Expressions implicitly return the unit value if they don’t return any other value.
+
 #### Array 
 Array elements must be the same type. Arrays have a fixed length. 
 - Usefull if you want your data allocated on the stack and not on the heap
@@ -87,6 +89,7 @@ let b: [u8; 2] = [1, 2]; // array of 2 elements of u8 type
 let c = [0; 5]; // array initialized with 5 zeros 
 let first = a[0]; // access an element 
 ```
+
 
 ## Functions 
 What a function is everyone sees. 
@@ -114,6 +117,7 @@ fn five() -> i32 { // functions that returns 5 of type i32
 - Statement is an instruction that perform an action and does not return a value 
 - Expression evaluate to a resulting value 
 - Rust is expression-based language 
+- If you add semicolon at the end of expression it makes it a statement
 
 ```Rust
 let y = 6; //statement 

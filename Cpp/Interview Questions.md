@@ -14,7 +14,7 @@ Interview questions with links to pages which answer these questions or answers 
 7. [[Polymorphism|What are VTABLE and VPTR?]] 
 8. [[Encapsulation#Access specifiers|What are Access specifiers in C++?]]
 9. [[Contents - START HERE#C main features|What are major C++ features? ]]
-10. [[Manual memory allocation#C memory allocation vs C-style memory allocation| What is the difference between malloc/free and new/delete]]
+10. [[Manual memory allocation#C memory allocation vs C-style memory allocation| What is the difference between malloc/free and new/delete]]?
 11. [[Manual memory allocation#Free Store vs Heap|What is a difference between Free Store and Heap?]] 
 12. [[Functions#What happens during a function call|What happens during a function call?]]
 13. [[Functions#What is an Inline Function|What is an Inline function?]] 

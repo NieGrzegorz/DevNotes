@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ab159177cc8d57bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b39a87c8f86dc2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed643bb0c213ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pragmatic Programmer/Pragmatic Philosophy/Remember the big picture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ae3373ae749061",
+    "type": "split",
+    "children": [
+      {
+        "id": "6894e0b2500b7375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e4555a72151168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "409bd76fc5e4eca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1881765f3f2212f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b00b8db2e526d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d06cc42d90b5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88633e2dfe03afb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pragmatic Programmer/Pragmatic Philosophy/Remember the big picture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e70daa5bba057549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pragmatic Programmer/Pragmatic Philosophy/Remember the big picture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c681595d1fed1c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8291d4cdcd838e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pragmatic Programmer/Pragmatic Philosophy/Remember the big picture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ed643bb0c213ba8",
+  "lastOpenFiles": [
+    "Pragmatic Programmer/Pragmatic Philosophy/Provide options. Dont make excuses.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Software entropy.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Think about your work.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Dont live with broken windows.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Critically analyze what you read and hear.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Care about your craft.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Be a Catalyst for change.md",
+    "Pragmatic Programmer/Pragmatic Approach/Orthogonality.md",
+    "Pragmatic Programmer/Pragmatic Approach/Pragmatic Approach.md",
+    "Pragmatic Programmer/Pragmatic Approach/Reversibility.md",
+    "Pragmatic Programmer/Pragmatic Approach/Eliminate effects between unrelated things.md",
+    "Pragmatic Programmer/Pragmatic Approach/DRY.md",
+    "Pragmatic Programmer/Pragmatic Approach/Estimate to avoid surprises.md",
+    "Pragmatic Programmer/Pragmatic Approach/Iterate the schedule with the code.md",
+    "Pragmatic Programmer/Pragmatic Approach/Make it easy to reuse.md",
+    "Pragmatic Programmer/Pragmatic Approach/Program close to the problem domain.md",
+    "Pragmatic Programmer/Pragmatic Approach/Write tracer code.md",
+    "Pragmatic Programmer/Pragmatic Approach/There are no final decisions.md",
+    "Pragmatic Programmer/Pragmatic Approach/Prototype to learn.md",
+    "Pragmatic Programmer/Pragmatic Philosophy/Pragmatic Phillosophy.md",
+    "Pragmatic Programmer/Basic Tools/Keep knowledge in plain text.md",
+    "Pragmatic Programmer/Basic Tools/Basic Tools.md",
+    "Inside the machine/Inside the machine.md"
+  ]
+}

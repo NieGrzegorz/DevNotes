@@ -11,7 +11,7 @@ In rust, memory allocated is freed when a variable goes out of scope.
 Rust calls automatically a function called ``drop``. Called automatically at closing curly bracket (equivalent to RAII in cpp). 
 
 ```Rust
-let s1 = String::from("hello"; 
+let s1 = String::from("hello"); 
 let s2 = s1; // Moved! s1 is now not available 
 	
 // Rust does not make deep copy automatically 

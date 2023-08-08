@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "47bc19555af71b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8250f941ace0c21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe7c6c1223286a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c5a4e89c1a5d72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c26ce2cfc74072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e12726f6f756961",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "026219823be1bf93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42ce349b8e43920c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205
+  },
+  "right": {
+    "id": "1123b6ef411bc871",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f75f5fec0b9dc93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a132fd4ce916ae4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cargo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "bbe7c6c1223286a1",
+  "lastOpenFiles": [
+    "Contents.md",
+    "Core concepts and syntax.md",
+    "Interview questions.md",
+    "Ownership.md",
+    "Pattern matching.md",
+    "Structs.md",
+    "Cargo.md",
+    "Enums and pattern matching.md"
+  ]
+}
