@@ -1,96 +1,76 @@
 {
   "main": {
-    "id": "ee469ea556e0c7d9",
+    "id": "b3d9dbd70268f869",
     "type": "split",
     "children": [
       {
-        "id": "3045b590076183bb",
+        "id": "05c6da26cc5b192f",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0efe9d88cccc8f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "142cfce2a8a02272",
+            "id": "e03abd0cc3358316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure.md",
+                "file": "nmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "591e224bc23a67c1",
+            "id": "7f09eddb2ac0559b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure.md",
+                "file": "Protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6be14b0ac7fa35ed",
+            "id": "9bdeb1b46e464c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4f0700d8b2ea27c",
+            "id": "9d6cfc53bc8d5ae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba610419d30575eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure core services.md",
+                "file": "SMB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "53f835f473dbb96d",
+    "id": "99760095b98385ba",
     "type": "split",
     "children": [
       {
-        "id": "a41090a55e07f12a",
+        "id": "b3615f0e6299b065",
         "type": "tabs",
         "children": [
           {
-            "id": "0814e300ca7ce8b4",
+            "id": "a8f60baf15926ffe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,7 +80,7 @@
             }
           },
           {
-            "id": "48ae77dc0c9e07ee",
+            "id": "455d22395aa53f72",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -115,10 +95,10 @@
             }
           },
           {
-            "id": "64ba6c0be50d8cf2",
+            "id": "32a868d5c1fd2bbc",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "starred",
               "state": {}
             }
           }
@@ -126,23 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "9502fe6b18665e2d",
+    "id": "876e0e1c3c6786f8",
     "type": "split",
     "children": [
       {
-        "id": "f1b8a4c433ba7a95",
+        "id": "d450c81a5539c835",
         "type": "tabs",
         "children": [
           {
-            "id": "e808d8b2e2b064ab",
+            "id": "c8d37cd803f0993e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure core services.md",
+                "file": "SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,19 +134,19 @@
             }
           },
           {
-            "id": "e809a95336bcd38b",
+            "id": "ea99d040fdc31cdb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure core services.md",
+                "file": "SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aaca7d980413bc08",
+            "id": "43d5e78796954eb9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,12 +157,12 @@
             }
           },
           {
-            "id": "52c77427b0ab3397",
+            "id": "581141145ef917f1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure core services.md"
+                "file": "SMB.md"
               }
             }
           }
@@ -203,12 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba610419d30575eb",
+  "active": "9d6cfc53bc8d5ae1",
   "lastOpenFiles": [
-    "Azure organization and infrastructure.md",
-    "Azure core services.md",
-    "Introduction.md",
-    "Novice.md",
-    "Azure.md"
+    "Protocols.md",
+    "FTP.md",
+    "nmap.md"
   ]
 }
