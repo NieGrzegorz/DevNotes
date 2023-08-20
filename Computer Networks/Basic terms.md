@@ -1,16 +1,16 @@
 # Basic terms 
 
 # The Internet
-[[The Internet]] is a computer network that connects billions of computing devices called [[hosts]] or [[end systems]]. End systems are connected together by a network of [[communucation links]] and [[packet switches]]. 
+[[The Internet]] is a computer network that connects billions of computing devices called [[hosts]] or [[end systems]]. End systems are connected together by a network of [[communication links]] and [[packet switches]]. 
 
 The Internet may be defined also as an infrastructure that provides services to applications. This applications are said to be distributed applications since they involve 
 
 
 ### Packet switch
-A packet switch takes a packet arriving on one of its incomming communication links. Most popular packet switches in today's internet are [[routers]] and [[link-layer switches]]. Both types of switches forward packets towards their ultimate destinations. 
+A packet switch takes a packet arriving on one of its incoming communication links. Most popular packet switches in today's internet are [[routers]] and [[link-layer switches]]. Both types of switches forward packets towards their ultimate destinations. 
 [[Communication link]]
 
-Route or path is the sequence of communication links and packet switches traversed bt a packed from the sending end system to the reciving end system. 
+Route or path is the sequence of communication links and packet switches traversed by a packed from the sending end system to the reviving end system. 
 
 [[Internet Service Provider]]
 
@@ -22,7 +22,7 @@ The Internet standards are developed by the Internet Engineering Task Force. The
 
 "A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event"
 
-End systems attached to the[[Socket interface]] that specifies how a program running on one of end systems asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
+End systems attached to the [[Socket interface]] that specifies how a program running on one of end systems asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
 
 
 ### How homes connect to the Internet? 

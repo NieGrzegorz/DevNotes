@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "47bc19555af71b00",
+    "id": "60ad7c5f3777f305",
     "type": "split",
     "children": [
       {
-        "id": "8250f941ace0c21b",
+        "id": "19ad5199344c4224",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe7c6c1223286a1",
+            "id": "3233a35e4e30666f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ownership.md",
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b9545c6f703b7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic terms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c5a4e89c1a5d72d",
+    "id": "48932b33754619cb",
     "type": "split",
     "children": [
       {
-        "id": "08c26ce2cfc74072",
+        "id": "751d37c961eeef41",
         "type": "tabs",
         "children": [
           {
-            "id": "3e12726f6f756961",
+            "id": "ec1c6f82c71a0e5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "026219823be1bf93",
+            "id": "d6518b9c49727a65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "42ce349b8e43920c",
+            "id": "c9b24deae4d41df5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 300
   },
   "right": {
-    "id": "1123b6ef411bc871",
+    "id": "2915ba1db3c7c68d",
     "type": "split",
     "children": [
       {
-        "id": "3f75f5fec0b9dc93",
+        "id": "1e7fc41ab26e4fec",
         "type": "tabs",
         "children": [
           {
-            "id": "9a132fd4ce916ae4",
+            "id": "42904f3aec724b54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ownership.md",
+                "file": "Basic terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -112,15 +124,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbe7c6c1223286a1",
+  "active": "1b9545c6f703b7f5",
   "lastOpenFiles": [
-    "Cargo.md",
     "Contents.md",
-    "Core concepts and syntax.md",
-    "Interview questions.md",
-    "Ownership.md",
-    "Pattern matching.md",
-    "Structs.md",
-    "Enums and pattern matching.md"
+    "Basic terms.md"
   ]
 }
