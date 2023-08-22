@@ -1,12 +1,12 @@
 ## Virtual Machines 
 VMs are part of infrastructure as a service. 
 
-Why to use VMS insdear Managed Services? 
+Why to use VMS instead Managed Services? 
 - Flexibility 
-	- Trade-off - flexiblility vs less management 
+	- Trade-off - flexibility vs less management 
 
 
-Avaliablility set - automaticatic replication of VM over different avaliability zones 
+Availability set - automatic replication of VM over different availability zones 
 IF VM goes down, a copied VM can take over 
 
 Scale sets 
@@ -16,25 +16,23 @@ Scale sets
 - Enables scaling and elasticity 
 
 ## Networking 
-How are VMs and services communicate with outide world 
+How are VMs and services communicate with outside world 
 
-Virtual Network (VNet) - Fundamental Building Blick 
+Virtual Network (VNet) - Fundamental Building Block 
 - Provides private and public network communication among Azure resources 
 - Uses familiar network concepts in virtual format (subnets, firewalls, routes )
-- Virual format - Software Defined Networking 
-- Enables public access or extende private networking to other networks 
-
-
+- Virtual format - Software Defined Networking 
+- Enables public access or extend private networking to other networks 
 
 ## Storage
-All purpose stroage sollutuin for multiple data storage scenarios 
-Scalable 
-Managed infrastructure 
-Flexible access options 
+All purpose storage solution for multiple data storage scenarios 
+- Scalable 
+- Managed infrastructure 
+- Flexible access options 
 Types: 
  - Blob
 	 - Object storage 
-	 - Binary Large Ibject 
+	 - Binary Large Object 
 	 - Unstructured data
 	 - All file types (images, videos, scripts)
  - Files 
@@ -42,7 +40,7 @@ Types:
  - Disks
 	 - Virtual hard drives for VMs
  - Queues
-	 - Asynchronous messageing between apps and services 
+	 - Asynchronous messaging between apps and services 
  - Tables (..kind of)
 	 - NoSQL database storage 
 	 - Gradually transitioning to Cosmos DB
@@ -54,7 +52,7 @@ Multiple **managed** database services (PaaS)
 - Azure SQL, Cosmos DB, PostgreSQL
 
 SQL and NoSQL
-Fullty managed 
+Fully managed 
 Single region vs multiple regions 
 Open source vs proprietary
 

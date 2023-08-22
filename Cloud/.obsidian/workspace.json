@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b0efe9d88cccc8f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "142cfce2a8a02272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591e224bc23a67c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be14b0ac7fa35ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4f0700d8b2ea27c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba610419d30575eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure core services.md",
+                "file": "Azure/Azure Introduction/Azure general concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure core services.md",
+                "file": "Azure/Azure Introduction/Azure general concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure core services.md",
+                "file": "Azure/Azure Introduction/Azure general concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure core services.md"
+                "file": "Azure/Azure Introduction/Azure general concepts.md"
               }
             }
           }
@@ -205,10 +148,13 @@
   },
   "active": "ba610419d30575eb",
   "lastOpenFiles": [
-    "Azure organization and infrastructure.md",
-    "Azure core services.md",
-    "Introduction.md",
-    "Novice.md",
-    "Azure.md"
+    "Azure/Azure Introduction/Azure core services.md",
+    "Azure/Azure Introduction/Azure general concepts.md",
+    "Azure/Introduction.md",
+    "Azure/Azure Introduction/Azure organization and infrastructure.md",
+    "Azure/Azure Introduction",
+    "General knowledge.md",
+    "Azure/AZ-900",
+    "Azure"
   ]
 }
