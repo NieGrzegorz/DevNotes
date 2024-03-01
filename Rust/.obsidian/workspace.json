@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b506ed258a812ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a50ec194a9995f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Language Features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f78bcde5e78dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managing projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ffa0e0b68fdee07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error handling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ownership.md",
+                "file": "Error handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +161,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbe7c6c1223286a1",
+  "active": "8ffa0e0b68fdee07",
   "lastOpenFiles": [
-    "Cargo.md",
-    "Contents.md",
+    "Functional Language Features.md",
+    "Error handling.md",
+    "Managing projects.md",
     "Core concepts and syntax.md",
+    "Untitled",
+    "Contents.md",
+    "Structs.md",
+    "Pattern matching.md",
+    "Cargo.md",
     "Interview questions.md",
     "Ownership.md",
-    "Pattern matching.md",
-    "Structs.md",
     "Enums and pattern matching.md"
   ]
 }

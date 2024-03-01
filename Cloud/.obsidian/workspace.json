@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Introduction/Azure general concepts.md",
+                "file": "Azure/AZ-900/Authentication and Authorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 381.5
   },
   "right": {
     "id": "9502fe6b18665e2d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure Introduction/Azure general concepts.md",
+                "file": "Azure/AZ-900/Authentication and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Azure Introduction/Azure general concepts.md",
+                "file": "Azure/AZ-900/Authentication and Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Introduction/Azure general concepts.md"
+                "file": "Azure/AZ-900/Authentication and Authorization.md"
               }
             }
           }
@@ -148,10 +148,25 @@
   },
   "active": "ba610419d30575eb",
   "lastOpenFiles": [
+    "Azure/AZ-900/Database.md",
+    "Azure/AZ-900/AZ-900 Contents.md",
+    "Azure/AZ-900/Storage.md",
+    "Azure/AZ-900/Networking.md",
+    "Azure/AZ-900/Compute.md",
+    "Azure/AZ-900/Azure Architecture.md",
+    "Azure/AZ-900/Cloud Concepts.md",
+    "Azure/AZ-900/Introduction.md",
+    "Azure/AZ-900/Azure Solutions.md",
+    "Azure/AZ-900/Exam Preparation.md",
+    "Azure/AZ-900/Support.md",
+    "Azure/AZ-900/Pricing.md",
+    "Azure/AZ-900/Monitoring and Management.md",
+    "Azure/AZ-900/Security.md",
+    "Azure/AZ-900/Authentication and Authorization.md",
     "Azure/Azure Introduction/Azure core services.md",
+    "Azure/Azure Introduction/Azure organization and infrastructure.md",
     "Azure/Azure Introduction/Azure general concepts.md",
     "Azure/Introduction.md",
-    "Azure/Azure Introduction/Azure organization and infrastructure.md",
     "Azure/Azure Introduction",
     "General knowledge.md",
     "Azure/AZ-900",
